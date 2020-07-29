@@ -13,17 +13,17 @@ This guide is our attempt to definitively answer these questions.
 
 Study all nine subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit favorites throughout your career 🚀.
 
-| Subject                                                      | Why study?                                                   | Best book                                               | Best videos                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------- | --------------------------------- |
-| **[Programming](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS.md#programming)** | Don’t be the person who “never quite understood” something like recursion. | *Structure and Interpretation of Computer Programs*     | Brian Harvey’s Berkeley CS 61A    |
-| **[Computer Architecture](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS.md#architecture)** | If you don’t have a solid mental model of how a computer actually works, all of your higher-level abstractions will be brittle. | *Computer Organization and Design*                      | Berkeley CS 61C                   |
-| **[Algorithms and Data Structures](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS.md#algorithms)** | If you don’t know how to use ubiquitous data structures like stacks, queues, trees, and graphs, you won’t be able to solve hard problems. | *The Algorithm Design Manual*                           | Steven Skiena’s lectures          |
-| **[Math for CS](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS.md#math)** | CS is basically a runaway branch of applied math, so learning math will give you a competitive advantage. | *Mathematics for Computer Science*                      | Tom Leighton’s MIT 6.042J         |
-| **[Operating Systems](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS.md#operating-systems)** | Most of the code you write is run by an operating system, so you should know how those interact. | *Operating Systems: Three Easy Pieces*                  | Berkeley CS 162                   |
-| **[Computer Networking](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS.md#networking)** | The Internet turned out to be a big deal: understand how it works to unlock its full potential. | *Computer Networking: A Top-Down Approach*              | Stanford CS 144                   |
-| **[Databases](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS.md#databases)** | Data is at the heart of most significant programs, but few understand how database systems actually work. | *Readings in Database Systems*                          | Joe Hellerstein’s Berkeley CS 186 |
-| **[Languages and Compilers](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS.md#languages)** | If you understand how languages and compilers actually work, you’ll write better code and learn new languages more easily. | *Compilers: Principles, Techniques and Tools*           | Alex Aiken’s course on Lagunita   |
-| **[Distributed Systems](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS.md#distributed-systems)** | These days, *most* systems are distributed systems.          | *Distributed Systems, 3rd Edition* by Maarten van Steen | MIT 6.824                         |
+| Subject                                | Why study?                                                   | Best book                                               | Best videos                       |
+| -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | --------------------------------- |
+| **[Programming]()**                    | Don’t be the person who “never quite understood” something like recursion. | *Structure and Interpretation of Computer Programs*     | Brian Harvey’s Berkeley CS 61A    |
+| **[Computer Architecture]()**          | If you don’t have a solid mental model of how a computer actually works, all of your higher-level abstractions will be brittle. | *Computer Organization and Design*                      | Berkeley CS 61C                   |
+| **[Algorithms and Data Structures]()** | If you don’t know how to use ubiquitous data structures like stacks, queues, trees, and graphs, you won’t be able to solve hard problems. | *The Algorithm Design Manual*                           | Steven Skiena’s lectures          |
+| **[Math for CS]()**                    | CS is basically a runaway branch of applied math, so learning math will give you a competitive advantage. | *Mathematics for Computer Science*                      | Tom Leighton’s MIT 6.042J         |
+| **[Operating Systems]()**              | Most of the code you write is run by an operating system, so you should know how those interact. | *Operating Systems: Three Easy Pieces*                  | Berkeley CS 162                   |
+| **[Computer Networking]()**            | The Internet turned out to be a big deal: understand how it works to unlock its full potential. | *Computer Networking: A Top-Down Approach*              | Stanford CS 144                   |
+| **[Databases]()**                      | Data is at the heart of most significant programs, but few understand how database systems actually work. | *Readings in Database Systems*                          | Joe Hellerstein’s Berkeley CS 186 |
+| **[Languages and Compilers]()**        | If you understand how languages and compilers actually work, you’ll write better code and learn new languages more easily. | *Compilers: Principles, Techniques and Tools*           | Alex Aiken’s course on Lagunita   |
+| **[Distributed Systems]()**            | These days, *most* systems are distributed systems.          | *Distributed Systems, 3rd Edition* by Maarten van Steen | MIT 6.824                         |
 
 ## Still too much?
 
@@ -43,13 +43,9 @@ Type 1 engineers find ways to learn computer science in depth, whether through c
 
 Currently, the number of people entering the industry is rapidly increasing, while the number of CS grads is relatively static. This oversupply of Type 2 engineers is starting to reduce their employment opportunities and keep them out of the industry’s more fulfilling work. Whether you’re striving to become a Type 1 engineer or simply looking for more job security, learning computer science is the only reliable path.
 
-![image-20200729082749580](/Users/ilja/Library/Application Support/typora-user-images/image-20200729082749580.png)
-
 ## Subject guides
 
 ### Programming
-
-![image-20200729083028673](/Users/ilja/Library/Application Support/typora-user-images/image-20200729083028673.png)
 
 Most undergraduate CS programs start with an “introduction” to computer programming. The best versions of these courses cater not just to novices, but also to those who missed beneficial concepts and programming models while first learning to code.
 
@@ -66,8 +62,6 @@ If you don't enjoy SICP, try *Composing Programs*. If that still doesn't suit, t
 Finally, a point of clarification: this guide is NOT designed for those who are entirely new to programming. We assume that you are a competent programmer without a background in computer science, looking to fill in some knowledge gaps. The fact that we've included a section on "programming" is simply a reminder that there may be more to learn. For those who've never coded before, but who'd like to, you might prefer a guide like [this one](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started).
 
 ### Computer Architecture
-
-![image-20200729084010976](/Users/ilja/Library/Application Support/typora-user-images/image-20200729084010976.png)
 
 > Hardware is the platform
 >
@@ -90,8 +84,6 @@ In seeking simplicity and cohesiveness, Nand2Tetris trades off depth. In particu
 Once you feel comfortable with the content of Nand2Tetris, we suggest either returning to CS:APP, or considering Patterson and Hennessy’s *[Computer Organization and Design](https://smile.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269)*, an excellent and now classic text. Not every section in the book is essential; we suggest following Berkeley’s [CS61C course](http://inst.eecs.berkeley.edu/~cs61c/sp15/) “Great Ideas in Computer Architecture” for specific readings. The lecture notes and labs are available online, and past lectures are [on the Internet Archive](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_).
 
 ### Algorithms and Data Structures
-
-![image-20200729084118457](/Users/ilja/Library/Application Support/typora-user-images/image-20200729084118457.png)
 
 > I have only one method that I recommend extensively—it’s called think before you write.
 >
@@ -125,8 +117,6 @@ For linear algebra, we suggest starting with the [Essence of linear algebra](htt
 
 ### Operating Systems
 
-![image-20200729084741456](/Users/ilja/Library/Application Support/typora-user-images/image-20200729084741456.png)
-
 *[Operating System Concepts](https://www.amazon.com/dp/1118063333/)* (the “Dinosaur book”) and *[Modern Operating Systems](https://www.amazon.com/dp/013359162X/)* are the “classic” books on operating systems. Both have attracted criticism for their lack of clarity and general student unfriendliness.
 
 *Operating Systems: Three Easy Pieces* is a good alternative that’s [freely available online](http://pages.cs.wisc.edu/~remzi/OSTEP/). We particularly like the structure and readability of the book, and feel that the exercises are worthwhile.
@@ -136,8 +126,6 @@ After OSTEP, we encourage you to explore the design decisions of specific operat
 A great way to consolidate your understanding of operating systems is to read the code of a small kernel and add features. One choice is [xv6](https://pdos.csail.mit.edu/6.828/2016/xv6.html), a port of Unix V6 to ANSI C and x86, maintained for a course at MIT. OSTEP has an appendix of potential [xv6 labs](http://pages.cs.wisc.edu/~remzi/OSTEP/lab-projects-xv6.pdf) full of great ideas for potential projects.
 
 ### Computer Networking
-
-![image-20200729084813510](/Users/ilja/Library/Application Support/typora-user-images/image-20200729084813510.png)
 
 > You can’t gaze in the crystal ball and see the future. What the Internet is going to be in the future is what society makes it.
 >
@@ -150,10 +138,6 @@ Our favorite book on the topic is *[Computer Networking: A Top-Down Approach](ht
 For those who prefer video lectures, we suggest Stanford’s [*Introduction to Computer Networking course*](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) previously available via Stanford's MOOC platform Lagunita, but sadly now only available as unofficial playlists on Youtube.
 
 ### Databases
-
-![image-20200729090941583](/Users/ilja/Library/Application Support/typora-user-images/image-20200729090941583.png)
-
-![image-20200729091008573](/Users/ilja/Library/Application Support/typora-user-images/image-20200729091008573.png)
 
 It takes more work to self-learn about database systems than it does with most other topics. It’s a relatively new (i.e. post 1970s) field of study with strong commercial incentives for ideas to stay behind closed doors. Additionally, many potentially excellent textbook authors have preferred to join or start companies instead.
 
@@ -169,8 +153,6 @@ Finally, data modeling is a neglected and poorly taught aspect of working with d
 
 ### Languages and Compilers
 
-![image-20200729091058861](/Users/ilja/Library/Application Support/typora-user-images/image-20200729091058861.png)
-
 > Don’t be a boilerplate programmer. Instead, build tools for users and other programmers. Take historical note of textile and steel industries: do you want to build machines and tools, or do you want to operate those machines?
 >
 > — Ras Bodik at the start of his compilers course
@@ -184,8 +166,6 @@ A more traditional recommendation is *[Compilers: Principles, Techniques & Tools
 If you elect to use the Dragon Book, it’s almost essential that you cherry-pick the topics, ideally with the help of a mentor. In fact, our suggested way to utilize the Dragon Book, if you so choose, is as a supplementary reference for a video lecture series. Our recommended one is [Alex Aiken’s, on edX](https://www.edx.org/course/compilers).
 
 ### Distributed Systems
-
-![image-20200729091158926](/Users/ilja/Library/Application Support/typora-user-images/image-20200729091158926.png)
 
 As computers have increased in number, they have also *spread*. Whereas businesses would previously purchase larger and larger mainframes, it’s typical now for even very small applications to run across multiple machines. Distributed systems is the study of how to reason about the trade-offs involved in doing so.
 
