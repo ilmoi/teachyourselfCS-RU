@@ -5,3 +5,8 @@ This repo contains the Russian translation of the 2020 version of https://teachy
 
 
 *Personal note: I myself followed the guide to, well, teach myself CS:) It's the best thing since sliced bread. To all those self taught programmers out there - couldn't recommend enough.*
+
+
+
+### Link: [Как выучить Computer Science самостоятельно?](https://github.com/ilmoi/teachyourselfCS-RU/blob/master/Teach_yourself_cs-2020-RU.md)
+

@@ -109,7 +109,7 @@
 
 <img align="left" width="200" src="https://teachyourselfcs.com/skiena.jpg">
 
-<img align="left" width="200" src="https://smile.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/">
+<img align="left" width="200" src="https://m.media-amazon.com/images/I/41w52FCezEL.jpg">
 
 > Единственный метод, который я настоятельно рекомендую, - подумай, прежде чем написать.
 >
