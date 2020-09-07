@@ -1,6 +1,6 @@
 # Teach Yourself CS Russian Translation
 
-This repo contains the Russian translation of the 2020 version of https://teachyourselfcs.com/. Translated by [Ilja Moisejevs](https://github.com/ilmoi) and [Stepan Rakitin](https://github.com/svrakitin). Original by [Oz Nova](https://twitter.com/oznova) and [Myles Byrne](https://twitter.com/quackingduck).
+This repo contains the Russian translation of the 2020 version of https://teachyourselfcs.com/. Translated by [Ilja Moisejevs](https://github.com/ilmoi) and [Stepan Rakitin](https://github.com/svrakitin). Original by [Oz Nova](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck).
 
 
 
